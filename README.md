@@ -1,1 +1,1 @@
-a repo of er301 custom units by other authors
+a repo of er301 custom units by other authors including the new stolmine firmware
